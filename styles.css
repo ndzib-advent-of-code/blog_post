@@ -1,0 +1,14 @@
+/* Add CSS here */
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-image: linear-gradient(53deg, white 46%, #37B2B0 46%, #37B2B0);
+}
+
+.overlay {
+    background-image: linear-gradient(to bottom, transparent, white)
+}
+
+.next-button {
+    background-color: rgba(230, 230, 230, 0.5);
+}
